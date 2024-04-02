@@ -20,3 +20,4 @@
 - HTML
 - CSS
 - Delphi
+- English (B1)
