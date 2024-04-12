@@ -14,6 +14,8 @@
 - Pandas, Mathplotlib, Seaborn, Scikit-learn
 - Mashine Learning
 - Natural Language Processing
+- Keras, ResNet
+- Computer Vision
 - PostgreSQL
 - Excel
 - Tableau
