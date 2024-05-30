@@ -1,7 +1,7 @@
 ## About me
 
 - Hi, I'm Mikhail Bogachev
-- I'm currently finishing studing data science
+- I completed my data science studying and am now working on several projects
 - I easy reach an understanding with people
 - I know how to work in large teams
 - I have a lot of experience performing
